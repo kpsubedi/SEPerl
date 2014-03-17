@@ -1,4 +1,4 @@
 SEPerl
 ======
 
-SearchEnginePerl
+Implementation of Search Engine using Inverted Index 
